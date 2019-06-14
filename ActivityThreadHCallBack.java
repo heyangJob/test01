@@ -14,11 +14,13 @@ public class ActivityThreadHCallBack implements Handler.Callback {
 
 
     private static final int SERVICE_ARGS = 115;
-    private static final int STOP_SERVICE = 116;
-    private static final int SLEEPING = 137;
-    private static final int STOP_ACTIVITY_SHOW = 103;
-    private static final int STOP_ACTIVITY_HIDE = 104;
-
+    // private static final int STOP_SERVICE = 116;
+    // private static final int SLEEPING = 137;
+    // private static final int STOP_ACTIVITY_SHOW = 103;
+    // private static final int STOP_ACTIVITY_HIDE = 104
+    xxxxxx
+    eeeee
+    
 
     @Override
     public boolean handleMessage(Message msg) {

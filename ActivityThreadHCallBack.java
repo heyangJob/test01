@@ -18,6 +18,13 @@ public class ActivityThreadHCallBack implements Handler.Callback {
     // private static final int SLEEPING = 137;
     // private static final int STOP_ACTIVITY_SHOW = 103;
     // private static final int STOP_ACTIVITY_HIDE = 104;
+    4444444
+
+    55555
+
+    5555
+
+    666
 
 
     @Override
